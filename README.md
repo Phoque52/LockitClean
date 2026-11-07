@@ -1,3 +1,5 @@
+![LockitClean](assets/banner.png)
+
 # 🧽 LockitClean
 
 A tiny macOS app that locks your keyboard and trackpad so you can wipe your Mac clean without typing gibberish or clicking random things.
